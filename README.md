@@ -1,3 +1,5 @@
 # Base64encoder
-This encode your string or integer to base64
+encode your string or files to base64
+# requirements
+`python`
  
